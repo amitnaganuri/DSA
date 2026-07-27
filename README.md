@@ -6,6 +6,7 @@ This Repo contains DSA Questions.
 ## Array
 |  |
 | ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/amitnaganuri/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2562-find-the-array-concatenation-value](https://github.com/amitnaganuri/DSA/tree/master/2562-find-the-array-concatenation-value) |
 ## Two Pointers
 |  |
@@ -15,4 +16,12 @@ This Repo contains DSA Questions.
 |  |
 | ------- |
 | [2562-find-the-array-concatenation-value](https://github.com/amitnaganuri/DSA/tree/master/2562-find-the-array-concatenation-value) |
+## Hash Table
+|  |
+| ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/amitnaganuri/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+## Sorting
+|  |
+| ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/amitnaganuri/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->
