@@ -7,6 +7,7 @@ This Repo contains DSA Questions.
 |  |
 | ------- |
 | [1636-sort-array-by-increasing-frequency](https://github.com/amitnaganuri/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/amitnaganuri/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/amitnaganuri/DSA/tree/master/2562-find-the-array-concatenation-value) |
 ## Two Pointers
 |  |
@@ -20,8 +21,10 @@ This Repo contains DSA Questions.
 |  |
 | ------- |
 | [1636-sort-array-by-increasing-frequency](https://github.com/amitnaganuri/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/amitnaganuri/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Sorting
 |  |
 | ------- |
 | [1636-sort-array-by-increasing-frequency](https://github.com/amitnaganuri/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/amitnaganuri/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 <!---LeetCode Topics End-->
