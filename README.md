@@ -6,6 +6,7 @@ This Repo contains DSA Questions.
 ## Array
 |  |
 | ------- |
+| [0954-array-of-doubled-pairs](https://github.com/amitnaganuri/DSA/tree/master/0954-array-of-doubled-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/amitnaganuri/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/amitnaganuri/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/amitnaganuri/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -21,12 +22,14 @@ This Repo contains DSA Questions.
 ## Hash Table
 |  |
 | ------- |
+| [0954-array-of-doubled-pairs](https://github.com/amitnaganuri/DSA/tree/master/0954-array-of-doubled-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/amitnaganuri/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/amitnaganuri/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/amitnaganuri/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Sorting
 |  |
 | ------- |
+| [0954-array-of-doubled-pairs](https://github.com/amitnaganuri/DSA/tree/master/0954-array-of-doubled-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/amitnaganuri/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/amitnaganuri/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Bit Manipulation
@@ -37,4 +40,8 @@ This Repo contains DSA Questions.
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/amitnaganuri/DSA/tree/master/2206-divide-array-into-equal-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0954-array-of-doubled-pairs](https://github.com/amitnaganuri/DSA/tree/master/0954-array-of-doubled-pairs) |
 <!---LeetCode Topics End-->
