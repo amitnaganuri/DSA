@@ -13,6 +13,7 @@ This Repo contains DSA Questions.
 | [2562-find-the-array-concatenation-value](https://github.com/amitnaganuri/DSA/tree/master/2562-find-the-array-concatenation-value) |
 | [2784-check-if-array-is-good](https://github.com/amitnaganuri/DSA/tree/master/2784-check-if-array-is-good) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/amitnaganuri/DSA/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/amitnaganuri/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,4 +54,8 @@ This Repo contains DSA Questions.
 |  |
 | ------- |
 | [3674-minimum-operations-to-equalize-array](https://github.com/amitnaganuri/DSA/tree/master/3674-minimum-operations-to-equalize-array) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/amitnaganuri/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
