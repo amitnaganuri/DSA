@@ -7,6 +7,7 @@ This Repo contains DSA Questions.
 |  |
 | ------- |
 | [0954-array-of-doubled-pairs](https://github.com/amitnaganuri/DSA/tree/master/0954-array-of-doubled-pairs) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/amitnaganuri/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/amitnaganuri/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/amitnaganuri/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/amitnaganuri/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -26,6 +27,7 @@ This Repo contains DSA Questions.
 |  |
 | ------- |
 | [0954-array-of-doubled-pairs](https://github.com/amitnaganuri/DSA/tree/master/0954-array-of-doubled-pairs) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/amitnaganuri/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/amitnaganuri/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/amitnaganuri/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/amitnaganuri/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -45,6 +47,7 @@ This Repo contains DSA Questions.
 ## Counting
 |  |
 | ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/amitnaganuri/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/amitnaganuri/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 ## Greedy
 |  |
