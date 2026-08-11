@@ -6,6 +6,7 @@ This Repo contains DSA Questions.
 ## Array
 |  |
 | ------- |
+| [0896-monotonic-array](https://github.com/amitnaganuri/DSA/tree/master/0896-monotonic-array) |
 | [0954-array-of-doubled-pairs](https://github.com/amitnaganuri/DSA/tree/master/0954-array-of-doubled-pairs) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/amitnaganuri/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/amitnaganuri/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
